@@ -1,0 +1,10 @@
+{
+    "id": "kat_rdp_normalize",
+    "consumes": [
+        "rdp"
+    ],
+    "produces": [
+        "Findings",
+        "KATFindingType"
+    ]
+}

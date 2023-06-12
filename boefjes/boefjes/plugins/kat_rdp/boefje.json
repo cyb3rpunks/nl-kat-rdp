@@ -1,0 +1,13 @@
+{
+    "id": "rdp",
+    "name": "Remote Desktop",
+    "description": "Remote Desktop Security Test tool",
+    "consumes": [
+        "IPAddressV4"
+    ],
+    "produces": [
+        "Findings",
+        "KATFindingType"
+    ],
+    "scan_level": 2
+}
